@@ -134,12 +134,7 @@ export default {
       });
     },
   },
-  // created() {
-  //   this.$http.post("usuarios.json", {
-  //     nome: "Maria",
-  //     email: 'Maria_maria@gmail.com'
-  //   }).then(res => console.log(res))
-  // }
+
 };
 </script>
 
